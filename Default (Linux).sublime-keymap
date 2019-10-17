@@ -1,0 +1,9 @@
+[
+	{ "keys": ["alt+."], "command": "next_bookmark" },
+	{ "keys": ["alt+,"], "command": "prev_bookmark" },
+	{ "keys": ["alt+m"], "command": "toggle_bookmark" },
+	{ "keys": ["ctrl+down", "ctrl+tab"], "command": "next_view" },
+	{ "keys": ["ctrl+up", "ctrl+shift+tab"], "command": "prev_view" },
+	{ "keys": ["ctrl+tab"], "command": "next_view" },
+	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+]
